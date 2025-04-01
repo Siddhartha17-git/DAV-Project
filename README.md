@@ -2,7 +2,7 @@
 
 
 ## ✨ Key Features
-- **Data cleaning & preprocessing of raw trip records.**
+- **Data cleaning & preprocessing of data.**
 - **Analysis of data from years**
 - **visualization of Different data from datasets**
 
